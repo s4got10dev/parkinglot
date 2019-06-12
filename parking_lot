@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+./gradlew clean jar && java -jar build/libs/parking-1.0-SNAPSHOT.jar
